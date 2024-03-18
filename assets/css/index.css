@@ -1,0 +1,36 @@
+* {
+    font-style: italic;
+}
+
+
+.header {
+    color:black!important;
+    background-color: #FFDA03; 
+    font-size: larger;
+    text-align: center;
+}
+h2 {
+     background-color: #F8DE7E;
+}
+nav {
+    background-color: #F8DE7E;
+    font-size: larger;
+    text-align: center;
+    word-spacing: 4cm;
+}
+body{
+    background-attachment: fixed;
+}
+.image{
+     padding: 20px;
+     width: 150px;
+     padding-left: 600px;
+     padding-right:600px;
+
+}
+
+p {
+    font-size: larger;
+
+}
+
